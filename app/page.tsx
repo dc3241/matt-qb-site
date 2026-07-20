@@ -378,7 +378,7 @@ export default function Home() {
             </div>
             <div className="row">
               <span className="lbl">Email</span>
-              <span className="val">coach@YOURDOMAIN.com</span>
+              <span className="val">matt@phoenixqbtraining.com</span>
             </div>
           </div>
 
@@ -492,7 +492,7 @@ export default function Home() {
               </div>
               <div className="foot-col">
                 <h4>Connect</h4>
-                <a href="mailto:coach@YOURDOMAIN.com">Email</a>
+                <a href="mailto:matt@phoenixqbtraining.com">Email</a>
                 <a href="#" target="_blank" rel="noopener">
                   Instagram
                 </a>

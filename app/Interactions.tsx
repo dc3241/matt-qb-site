@@ -43,7 +43,7 @@ export default function Interactions() {
 
     // FORM SUBMIT — posts to /api/contact.
     const ENDPOINT = "/api/contact";
-    const CONTACT_EMAIL = "coach@YOURDOMAIN.com";
+    const CONTACT_EMAIL = "matt@phoenixqbtraining.com";
     const onSubmit = async (e: Event) => {
       e.preventDefault();
       if (!form || !status || !btn) return;
